@@ -1,0 +1,4 @@
+package swiftgen
+
+func clearConsole() {
+}
